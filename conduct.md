@@ -111,6 +111,18 @@ enforcement, provide escorts, or otherwise assist those experiencing
 harassment to feel safe for the duration of the conference. We value
 your attendance.
         
+## Report a violation
+<form action="https://formspree.io/bangbangcon-archive@googlegroups.com" method="POST">
+
+<label for="code of conduct violation">Code of Conduct violation </label>
+<input type="text" name="code of conduct violation">
+
+<label for="_replyto">Your email (optional) </label>
+<input type="email" name="_replyto">
+
+<input type="submit" value="Send">
+</form>
+
 ## License
 
 The !!Con Code of Conduct is under a
